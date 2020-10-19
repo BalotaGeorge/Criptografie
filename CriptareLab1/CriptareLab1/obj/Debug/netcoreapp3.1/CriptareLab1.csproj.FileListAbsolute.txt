@@ -1,0 +1,13 @@
+C:\AnyThingElse\PB VS C#\.Labs\CriptareLab1\CriptareLab1\bin\Debug\netcoreapp3.1\CriptareLab1.exe
+C:\AnyThingElse\PB VS C#\.Labs\CriptareLab1\CriptareLab1\bin\Debug\netcoreapp3.1\CriptareLab1.deps.json
+C:\AnyThingElse\PB VS C#\.Labs\CriptareLab1\CriptareLab1\bin\Debug\netcoreapp3.1\CriptareLab1.runtimeconfig.json
+C:\AnyThingElse\PB VS C#\.Labs\CriptareLab1\CriptareLab1\bin\Debug\netcoreapp3.1\CriptareLab1.runtimeconfig.dev.json
+C:\AnyThingElse\PB VS C#\.Labs\CriptareLab1\CriptareLab1\bin\Debug\netcoreapp3.1\CriptareLab1.dll
+C:\AnyThingElse\PB VS C#\.Labs\CriptareLab1\CriptareLab1\bin\Debug\netcoreapp3.1\CriptareLab1.pdb
+C:\AnyThingElse\PB VS C#\.Labs\CriptareLab1\CriptareLab1\obj\Debug\netcoreapp3.1\CriptareLab1.csprojAssemblyReference.cache
+C:\AnyThingElse\PB VS C#\.Labs\CriptareLab1\CriptareLab1\obj\Debug\netcoreapp3.1\CriptareLab1.AssemblyInfoInputs.cache
+C:\AnyThingElse\PB VS C#\.Labs\CriptareLab1\CriptareLab1\obj\Debug\netcoreapp3.1\CriptareLab1.AssemblyInfo.cs
+C:\AnyThingElse\PB VS C#\.Labs\CriptareLab1\CriptareLab1\obj\Debug\netcoreapp3.1\CriptareLab1.csproj.CoreCompileInputs.cache
+C:\AnyThingElse\PB VS C#\.Labs\CriptareLab1\CriptareLab1\obj\Debug\netcoreapp3.1\CriptareLab1.dll
+C:\AnyThingElse\PB VS C#\.Labs\CriptareLab1\CriptareLab1\obj\Debug\netcoreapp3.1\CriptareLab1.pdb
+C:\AnyThingElse\PB VS C#\.Labs\CriptareLab1\CriptareLab1\obj\Debug\netcoreapp3.1\CriptareLab1.genruntimeconfig.cache
